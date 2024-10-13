@@ -37,13 +37,6 @@ After starting the application:
 
 The program provides a visual representation of elevator statuses and allows real-time interaction.
 
-## Design/Model Changes
-
-- **Part 1:** Initial design with the given elevator model.
-- **Part 2:** Modified the BuildingReport class to display the report in a more user-friendly style.
-
-These changes were implemented to enhance user interaction and improve the simulation's efficiency and usability.
-
 ## Assumptions
 
 - Each elevator has an identical maximum capacity and speed, the capacity is constant.
